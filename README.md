@@ -6,6 +6,11 @@ This project transforms raw deposit data into meaningful **business intelligence
 
 ---
 
+## Streamlit Deployed Link
+<https://dspractical-mini-project.streamlit.app>
+
+---
+
 ## 📌 **Project Overview**
 
 This dashboard provides a comprehensive analytical interface to explore India’s banking deposit landscape.
