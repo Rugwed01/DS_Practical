@@ -7,7 +7,7 @@ This project transforms raw deposit data into meaningful **business intelligence
 ---
 
 ## Streamlit Deployed Link
-<https://dspractical-mini-project.streamlit.app>
+* <https://dspractical-mini-project.streamlit.app>
 
 ---
 
